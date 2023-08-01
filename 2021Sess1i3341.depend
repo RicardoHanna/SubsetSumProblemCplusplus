@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1664473187 source:c:\users\ant\documents\onenote notebooks\2021sess1i3341\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<functional>
+	<fstream>
+	<bits/stdc++.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<functional>
+	<fstream>
+	<bits/stdc++.h>
+
